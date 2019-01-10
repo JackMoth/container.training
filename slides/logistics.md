@@ -1,31 +1,16 @@
 ## Intros
 
-- This slide should be customized by the tutorial instructor(s).
+ - Hello! We are:
 
-- Hello! We are:
+   - .emoji[✨] Laurent ([@laurentgrangeau](https://twitter.com/laurentgrangeau))
 
-   - .emoji[👩🏻‍🏫] Ann O'Nymous ([@...](https://twitter.com/...), Megacorp Inc)
+   - .emoji[🌟] Ludovic ([@lpiot](https://twitter.com/lpiot))
 
-   - .emoji[👨🏾‍🎓] Stu Dent ([@...](https://twitter.com/...), University of Wakanda)
+- The workshop will run from 9:30-12:30
 
- <!-- .dummy[
-
-   - .emoji[👷🏻‍♀️] AJ ([@s0ulshake](https://twitter.com/s0ulshake), Travis CI)
-
-   - .emoji[🐳] Jérôme ([@jpetazzo](https://twitter.com/jpetazzo), Enix SAS)
-
-   - .emoji[⛵] Jérémy ([@jeremygarrouste](twitter.com/jeremygarrouste), Inpiwee)
-
-] -->
-
-- The workshop will run from ...
-
-- There will be a lunch break at ...
-
-  (And coffee breaks!)
+- There will be a break from 11:00-11:15
 
 - Feel free to interrupt for questions at any time
 
 - *Especially when you see full screen container pictures!*
 
-- Live feedback, questions, help: @@CHAT@@

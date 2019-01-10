@@ -6,9 +6,9 @@ title: |
 #chat: "[Gitter](https://gitter.im/jpetazzo/training-20180413-paris)"
 chat: "In person!"
 
-gitrepo: github.com/jpetazzo/container.training
+gitrepo: github.com/codeforcloud/container.training
 
-slides: http://container.training/
+slides: http://training.codeforcloud.tech/
 
 exclude:
 - self-paced
@@ -17,7 +17,7 @@ chapters:
 - shared/title.md
 #- logistics.md
 # Bridget-specific; others use logistics.md
-- logistics-bridget.md
+- logistics.md
 - k8s/intro.md
 - shared/about-slides.md
 - shared/toc.md
