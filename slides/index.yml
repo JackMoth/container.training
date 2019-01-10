@@ -8,7 +8,7 @@ chat: "In person!"
 
 gitrepo: github.com/codeforcloud/container.training
 
-slides: http://training.codeforcloud.tech/
+slides: https://training.codeforcloud.tech/
 
 exclude:
 - self-paced

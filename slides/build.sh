@@ -14,6 +14,7 @@ once)
       ./appendcheck.py $YAML.html
     done
   fi
+  mv index.yml.html index.html
   ;;
 
 forever)
